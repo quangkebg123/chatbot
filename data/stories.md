@@ -49,4 +49,4 @@
 * subscription{"subscribe": "True"}
     - slot{"subscribe": "True"}
     - subscribe_user
-    - slot{"subscribe": true}
+    - slot{"subscribe": "true"}
