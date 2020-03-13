@@ -1,16 +1,19 @@
 # Install 
 ```
-py -m pip install --user virtualenv
-```
-```
 py -m venv venv
+```
+```
+.\venv\Scripts\activate
+```
+```
+pip install setuptools==39.1.0
 ```
 ```
 pip install -r requirements.txt
 ```
 # required
 ```
-python 3.6
+python 3.6.4
 ```
 ```
 pip > 19.0
