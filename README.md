@@ -6,6 +6,10 @@ py -m venv venv
 .\venv\Scripts\activate
 ```
 ```
+Nhấn File ->Setting -> Project -> Project Interpreter -> chọn ver python 3.6.4
+```
+
+```
 pip install setuptools==39.1.0
 ```
 ```
