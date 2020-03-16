@@ -15,6 +15,9 @@ pip install setuptools==39.1.0
 ```
 pip install -r requirements.txt
 ```
+```
+Nếu không cài được thì cài thêm cái này vc_redist.x64
+```
 # required
 ```
 python 3.6.4
